@@ -1,0 +1,6 @@
+2023-12-16 14:09:33.746 +00:00 [INF] Constructor for user registration called
+2023-12-16 14:09:36.942 +00:00 [INF] User string created Successfully!!
+2023-12-16 14:33:43.343 +00:00 [INF] Constructor for user registration called
+2023-12-16 14:33:43.641 +00:00 [INF] User with username not found
+2023-12-16 14:33:55.101 +00:00 [INF] Constructor for user registration called
+2023-12-16 14:33:55.190 +00:00 [INF] User with username Pavithra12 displayed

@@ -1,0 +1,67 @@
+
+.feedback
+{
+    color: red;
+    font-size: 15px;
+}
+.navstyle
+{
+    background-color: #03a89e;
+    color: white;
+}
+
+
+.card{
+    width: 30%; 
+    margin-top: 1%;
+    margin-left: 30%;
+    border-radius: 10px;
+    background-color: #11346b;
+   
+    
+}
+.card-body{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+label,input{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+     color:white; 
+     font-style: italic;
+     font-size: 18px;
+}
+
+.bg
+{
+    background-image: url('../../assets/loginbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#loginbutton
+{
+    width: 50%;
+    background-color: #03a89e;
+    font-weight: bold;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 17px;
+  
+}
+
+@media screen and (max-width: 600px) {
+   
+    .navstyle{
+        width: 600px;
+    }
+}

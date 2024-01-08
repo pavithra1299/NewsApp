@@ -1,0 +1,11 @@
+.navstyle
+{
+    background-color: brown;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .navstyle{
+        width: 600px;
+    }
+}

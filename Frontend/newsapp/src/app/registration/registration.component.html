@@ -1,0 +1,140 @@
+
+<div class="navstyle">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"  style="color: white;">NewsZone</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </nav>
+      </div>
+
+      <br><br>
+      
+<img src="../../assets/news.jpg" alt="Failed to load image" class="img-css">
+<form [formGroup]="myForm" (ngSubmit)="onSubmit(myForm)" class="form-layout" >
+   
+       
+    
+        
+    <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">UserName:
+        <input
+                formControlName="UserName"
+                placeholder="UserName"
+                style="width : 300px "
+
+                />
+        </label>
+        <div
+        class="feedback"
+        *ngIf="
+              myForm.get('UserName').invalid &&
+              (myForm.get('UserName').dirty || myForm.get('UserName').touched)
+             ">
+              Username Must be between 3 to 25 characters long..
+  </div>
+        <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">FirstName:
+            <input
+                formControlName="FirstName"
+                placeholder="FirstName"
+                style="width : 300px"
+                    />
+            </label>
+            <div
+            class="feedback"
+            *ngIf="
+                  myForm.get('FirstName').invalid &&
+                  (myForm.get('FirstName').dirty || myForm.get('FirstName').touched)
+                 ">
+                  FirstName is required
+      </div>
+            <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">LastName:
+            <input
+                formControlName="LastName"
+                placeholder="LastName"
+                style="width : 300px"
+                    />
+        </label>
+       
+        <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">PhoneNumber:
+            <input
+                formControlName="Mobile"
+                placeholder="Contact Number"
+                style="width : 300px"
+                />
+        </label>
+        <div
+        class="feedback"
+        *ngIf="
+              myForm.get('Mobile').invalid &&
+              (myForm.get('Mobile').dirty || myForm.get('Mobile').touched)
+             ">
+              Phone number should be of minimum 10 digits
+  </div>
+        <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">Email:
+            <input
+                formControlName="Email"
+                placeholder="Email"
+                style="width : 300px"
+              />
+        </label>
+        <div
+        class="feedback"
+        *ngIf="
+              myForm.get('Email').invalid &&
+              (myForm.get('Email').dirty || myForm.get('Email').touched)
+             ">
+              Enter a valid Email
+  </div>
+        
+        <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">Create Password:
+            <input
+                formControlName="CreatePassword"
+                placeholder="Create Password"
+                type="password"
+                style="width : 300px"
+             />
+        </label>
+        <div
+        class="feedback"
+        *ngIf="
+              myForm.get('CreatePassword').invalid &&
+              (myForm.get('CreatePassword').dirty || myForm.get('CreatePassword').touched)
+             ">
+              Password should be of 8-15 characters , contain a number and a special character
+  </div>
+        <br>
+        <label style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">Confirm Password:
+            <input
+                formControlName="ConfirmPassword"
+                placeholder="Confirm Password"
+                type="password"
+                style="width : 300px"
+             />
+        </label>
+        <div
+        class="feedback"
+        *ngIf="
+              myForm.get('CreatePassword').invalid &&
+              (myForm.get('CreatePassword').dirty || myForm.get('CreatePassword').touched)
+             ">
+              Confirm password should match with password
+  </div>
+        <br>
+        <a routerLink="/login" style="color:crimson;">Exixting User?Login Here..</a>
+        <div class="buttoncss">
+
+            <button type="submit" class="btn btn-lg btn-primary" >Register</button>
+        </div>
+        <br>
+       
+        <br><br>
+
+
+</form>

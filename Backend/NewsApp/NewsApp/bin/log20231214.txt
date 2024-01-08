@@ -1,0 +1,2 @@
+2023-12-14 06:32:53.795 +00:00 [INF] Constructor for News API called
+2023-12-14 06:32:57.721 +00:00 [INF]  Data fetched successfully

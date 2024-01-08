@@ -1,0 +1,10 @@
+2023-12-09 07:03:18.947 +00:00 [INF] Constructor for register called
+2023-12-09 07:11:15.418 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:11:18.179 +00:00 [INF] User with username Tina12 displayed
+2023-12-09 07:11:25.034 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:11:25.207 +00:00 [INF] User with usernam not found
+2023-12-09 07:12:21.467 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:14:36.815 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:14:39.588 +00:00 [INF] User with username not found
+2023-12-09 07:15:57.524 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:15:59.330 +00:00 [INF] User with username not found

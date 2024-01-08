@@ -1,0 +1,6 @@
+2023-12-09 07:27:06.054 +00:00 [INF] Constructor for user authentication called
+2023-12-09 07:27:11.039 +00:00 [INF] Invalid user
+2023-12-09 07:27:24.478 +00:00 [INF] Constructor for user authentication called
+2023-12-09 07:27:24.553 +00:00 [INF] UserPavithra12 logged in successfully and token generated
+2023-12-09 13:57:10.223 +00:00 [INF] Constructor for user authentication called
+2023-12-09 13:57:14.505 +00:00 [INF] User Pavithra12 logged in successfully and token generated

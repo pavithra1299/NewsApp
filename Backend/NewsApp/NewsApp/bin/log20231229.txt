@@ -1,0 +1,28 @@
+2023-12-29 10:21:22.865 +00:00 [INF] Constructor for News API called
+2023-12-29 10:21:25.211 +00:00 [INF]  Data fetched successfully
+2023-12-29 10:21:51.469 +00:00 [INF] Constructor for News API called
+2023-12-29 10:21:53.363 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:07:31.299 +00:00 [INF] Constructor for News API called
+2023-12-29 11:07:32.240 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:08:28.699 +00:00 [INF] Constructor for News API called
+2023-12-29 11:08:30.745 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:20:33.242 +00:00 [INF] Constructor for News API called
+2023-12-29 11:20:34.461 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:20:44.537 +00:00 [INF] Constructor for News API called
+2023-12-29 11:20:46.653 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:53:27.561 +00:00 [INF] Constructor for News API called
+2023-12-29 11:53:28.488 +00:00 [INF]  Data fetched successfully
+2023-12-29 11:59:25.073 +00:00 [INF] Constructor for News API called
+2023-12-29 11:59:25.639 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:02:00.806 +00:00 [INF] Constructor for News API called
+2023-12-29 12:02:01.775 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:08:36.141 +00:00 [INF] Constructor for News API called
+2023-12-29 12:08:37.684 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:09:02.851 +00:00 [INF] Constructor for News API called
+2023-12-29 12:09:03.346 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:09:11.919 +00:00 [INF] Constructor for News API called
+2023-12-29 12:09:13.968 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:10:43.561 +00:00 [INF] Constructor for News API called
+2023-12-29 12:10:44.816 +00:00 [INF]  Data fetched successfully
+2023-12-29 12:11:25.325 +00:00 [INF] Constructor for News API called
+2023-12-29 12:11:25.902 +00:00 [INF]  Data fetched successfully

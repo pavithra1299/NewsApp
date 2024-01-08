@@ -1,0 +1,84 @@
+
+<div class="bg">
+  <div class="navstyle">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#" style="color: white;">NewsZone</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </nav>
+  </div>
+<div class="card">
+  <div class="card-title " style="text-align: center;">
+      <h4 style="color: white; font-family: Georgia, 'Times New Roman', Times, serif;font-weight: bold;">Login</h4>
+    </div>
+    
+
+    <div class="card-body">
+      <form class="loginformcss" [formGroup]="LoginForm" (ngSubmit)="onSubmit(LoginForm)">
+        <label >UserName</label>
+        <input formControlName="UserName" placeholder="UserName" class="form-control">
+        <div class="feedback" *ngIf="
+    LoginForm.get('UserName').invalid &&
+    (LoginForm.get('UserName').dirty || LoginForm.get('UserName').touched)
+   ">
+          Username is required..
+        </div>
+        <br>
+        <label>Password</label>
+        <input formControlName="Password" placeholder="Password" type="password" class="form-control" />
+
+        <div class="feedback" *ngIf="
+              LoginForm.get('Password').invalid &&
+              (LoginForm.get('Password').dirty || LoginForm.get('Password').touched)
+             ">
+          Password is required
+        </div>
+        <br>
+        <button id="loginbutton" class="btn btn-primary ">Login</button>
+        <div class="card-text">
+          <a routerLink="/register" style="color: white;"> Not a User, Register here!!</a>
+        </div>
+      </form>
+    </div>
+ 
+</div>
+<br><br>
+</div>
+
+
+<!-- <div class="login-diaplay">
+  <form class="loginformcss" [formGroup]="LoginForm" (ngSubmit)="onSubmit(LoginForm)">
+
+
+    <br>
+    <label
+      style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">UserName:
+      <input formControlName="UserName" placeholder="UserName" style="width : 300px" />
+    </label>
+    <div class="feedback" *ngIf="
+              LoginForm.get('UserName').invalid &&
+              (LoginForm.get('UserName').dirty || LoginForm.get('UserName').touched)
+             ">
+      Username is required..
+    </div>
+    <br>
+
+    <label
+      style="font-family:Georgia, 'Times New Roman', Times, serif ; color:darkred; font-style: italic;font-size: 18px;">Password:
+      <input formControlName="Password" placeholder="Password" type="password" style="width : 300px" />
+    </label>
+    <div class="feedback" *ngIf="
+              LoginForm.get('Password').invalid &&
+              (LoginForm.get('Password').dirty || LoginForm.get('Password').touched)
+             ">
+      Password is required
+    </div>
+    <br><br>
+    <button class="btn btn-primary ">Login</button>
+    <a routerLink="/register"> Not a User, Register here!!</a>
+  </form>
+</div> -->

@@ -1,0 +1,22 @@
+2023-12-09 07:41:58.526 +00:00 [INF] Wishlist constructor is called
+2023-12-09 07:41:59.232 +00:00 [INF] Data fetched successfully!!
+2023-12-09 13:34:53.001 +00:00 [INF] Wishlist constructor is called
+2023-12-09 13:34:53.450 +00:00 [INF] Data fetched successfully!!
+2023-12-09 13:37:15.918 +00:00 [INF] Wishlist constructor is called
+2023-12-09 13:54:47.205 +00:00 [INF] Wishlist constructor is called
+2023-12-09 13:54:47.703 +00:00 [INF] Data added to Wishlist
+2023-12-09 14:04:11.609 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:04:11.810 +00:00 [INF] Data fetched successfully!!
+2023-12-09 14:05:03.773 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:05:03.795 +00:00 [INF] Data fetched successfully!!
+2023-12-09 14:10:46.155 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:10:46.878 +00:00 [INF] Data fetched successfully!!
+2023-12-09 14:13:49.781 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:13:49.844 +00:00 [INF] Id not found
+2023-12-09 14:22:49.721 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:23:05.522 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:23:05.611 +00:00 [INF] Data added to Wishlist
+2023-12-09 14:29:06.168 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:29:06.710 +00:00 [INF] Data added to Wishlist
+2023-12-09 14:31:02.235 +00:00 [INF] Wishlist constructor is called
+2023-12-09 14:31:02.356 +00:00 [INF] Data deleted from Wishlist

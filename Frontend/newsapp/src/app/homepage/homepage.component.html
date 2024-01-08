@@ -1,0 +1,40 @@
+
+<div class="navstyle">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"  style="color: white;">NewsZone</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+           <div>
+            <form class="d-flex" role="search">
+              <button class="btn btn-lg " routerLink="/register" style="color: white;">Register</button>
+              <button class="btn btn-lg "  routerLink="/login"style="color: white;">Login</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      </div>
+
+<h2 style="text-align: center;color: brown;background-color: antiquewhite;" class="title">{{title}}</h2>
+<p *ngIf="!news">Fetching current News ......</p>
+<div class="column">
+<div class="row">
+<div *ngFor="let n of news" class="col-md-4"> 
+    
+        <div class="card" >
+            <div class="container">
+                <br>
+                <a href={{n.url}}><img class="image"  src={{n.urlToImage}}  alt="Error fetching the image" style="width:100%"></a>
+                <h4 style="color: darkmagenta;">{{n.title}}</h4> 
+                <h5>{{n.author}}</h5>
+                <p>{{n.description}}</p>
+               <button class="btn btn-light" routerLink="/login">Add to Wishlist &#9829;
+            </button>
+            </div>
+        </div>
+        <br><br>
+    </div>
+</div>
+</div>

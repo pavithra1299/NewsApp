@@ -1,0 +1,4 @@
+2023-12-26 08:09:35.408 +00:00 [INF] Constructor for user registration called
+2023-12-26 08:09:41.135 +00:00 [INF] User Pavithra12 created Successfully!!
+2023-12-26 10:59:23.362 +00:00 [INF] Constructor for user registration called
+2023-12-26 10:59:28.755 +00:00 [INF] User Pooja12 created Successfully!!

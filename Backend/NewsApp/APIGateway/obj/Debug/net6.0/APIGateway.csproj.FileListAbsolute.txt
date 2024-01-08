@@ -1,0 +1,191 @@
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\appsettings.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Ocelot.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.exe
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+D:\2023\August'23\CGI Core .NET Wave2 Regular\.NET Core\Day-12\Microservices\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\appsettings.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Ocelot.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.exe
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGateway.props
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway.props
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGateway.props
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+D:\2023\November\CTS\backend\Microservices\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Consul.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Common.dll
+D:\2023\November\CTS\backend\Microservices\APIGateway\bin\Debug\net6.0\Common.pdb
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.dll
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\appsettings.json
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Ocelot.json
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\APIGateway.exe
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\APIGateway.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Consul.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\November\CTS\ToSend\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGateway.props
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway.props
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGateway.props
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+D:\2023\November\CTS\ToSend\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Ocelot.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\APIGateway.exe
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\APIGateway.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Consul.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+C:\Users\VMAdmin\source\repos\NewsApp\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll

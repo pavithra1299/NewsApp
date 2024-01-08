@@ -1,0 +1,22 @@
+2023-12-26 04:15:47.365 +00:00 [INF] Constructor for user authentication called
+2023-12-26 04:15:53.453 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 08:10:23.447 +00:00 [INF] Constructor for user authentication called
+2023-12-26 08:10:28.037 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 08:18:05.955 +00:00 [INF] Constructor for user authentication called
+2023-12-26 08:18:09.808 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 10:14:49.846 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:14:54.011 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 10:51:41.644 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:51:46.421 +00:00 [INF] Invalid user
+2023-12-26 10:52:04.876 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:52:05.083 +00:00 [INF] Invalid user
+2023-12-26 10:52:37.994 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:52:38.271 +00:00 [INF] Invalid user
+2023-12-26 10:57:21.238 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:57:21.518 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 10:57:46.976 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:57:47.175 +00:00 [INF] User Pavithra12 logged in successfully and token generated
+2023-12-26 10:59:42.086 +00:00 [INF] Constructor for user authentication called
+2023-12-26 10:59:42.285 +00:00 [INF] User Pooja12 logged in successfully and token generated
+2023-12-26 11:07:28.413 +00:00 [INF] Constructor for user authentication called
+2023-12-26 11:07:30.443 +00:00 [INF] User Pavithra12 logged in successfully and token generated

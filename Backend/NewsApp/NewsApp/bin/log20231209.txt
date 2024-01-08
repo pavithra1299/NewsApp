@@ -1,0 +1,8 @@
+2023-12-09 07:34:19.728 +00:00 [INF] Constructor for user registration called
+2023-12-09 07:34:24.059 +00:00 [INF]  Data fetched successfully
+2023-12-09 13:50:55.442 +00:00 [INF] Constructor for News API called
+2023-12-09 13:50:57.167 +00:00 [INF]  Data fetched successfully
+2023-12-09 13:57:17.692 +00:00 [INF] Constructor for News API called
+2023-12-09 13:57:19.827 +00:00 [INF]  Data fetched successfully
+2023-12-09 13:58:11.529 +00:00 [INF] Constructor for News API called
+2023-12-09 13:58:12.093 +00:00 [INF]  Data fetched successfully

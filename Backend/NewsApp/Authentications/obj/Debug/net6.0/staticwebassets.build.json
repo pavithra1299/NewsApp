@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "f9ybnsoUETnDmVASnEySQ1ir3eEHPW1AGVd7HB+9zyw=",
+  "Source": "Authentications",
+  "BasePath": "_content/Authentications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\VMAdmin\\source\\repos\\NewsApp\\UserRegistration\\UserRegistration.csproj",
+      "Version": 2,
+      "Source": "UserRegistration",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
